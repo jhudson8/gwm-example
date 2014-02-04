@@ -1,0 +1,14 @@
+{
+  "name": "gwm-example",
+  "description": "Gulp Web Modules Example Application",
+  "author": "Joe Hudson <joehud@gmail.com>",
+
+  "dependencies": {
+    "gulp-web-modules": "*",
+    "gwm-handlebars": "*",
+    "gwm-react": "*",
+    "gwm-lib": "*",
+    "gwm-config": "*",
+    "gwm-sass": "*"
+  }
+}
